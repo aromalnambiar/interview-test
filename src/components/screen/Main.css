@@ -1,0 +1,59 @@
+.room{
+    width: 300px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    height: 450px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-bottom: 20px;
+}
+
+.room h3{
+    text-align: center;
+    color: purple;
+    font-weight: bold;
+    border-bottom: 1px solid purple;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+.details{
+    padding: 15px;
+    border: 1px solid #000;
+    
+}
+
+.user{
+    font-weight: bold;
+}
+
+.scroll{
+    overflow: auto;
+    height: 370px;
+    background-color: beige;
+}
+
+.username{
+    margin-top: 100px;
+}
+
+.username h1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    text-decoration: dashed;
+    color:crimson;
+}
+
+.user-container{
+    padding: 10px;
+
+}
+
+.user-container h2{
+    color:goldenrod;
+    font-weight: bold;
+    border: #000 1px solid;
+    padding: 10px;
+    background-color: aquamarine;
+}
