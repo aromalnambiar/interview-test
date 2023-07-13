@@ -7,8 +7,8 @@ function App() {
 
   return (
     <div >
-     <p className='text-center text-2xl mt-10'>
-          Clinical Website
+     <p className='text-center bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 mt-5 text-transparent bg-clip-text text-5xl'>
+          Appointment Details
      </p>
      <Main/>
     </div>
